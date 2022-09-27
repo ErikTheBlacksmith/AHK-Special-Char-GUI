@@ -1,7 +1,7 @@
 do not steal please i made this :)
 
 How to use:
-Change what you want in settings.txt (a default is provided)
+Change what you want in Settings.txt (a default is provided)
 run generate.exe
 run the generated AHK file
 select place for the character to be typed
