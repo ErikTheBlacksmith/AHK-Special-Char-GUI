@@ -1,0 +1,15 @@
+please do not add or remove header lines
+Name for AHK file (default ExtraCharacters.ahk):
+ExtraCharacters.ahk
+Hotkey to open menu (default ^!] -> ctl+alt+]):
+^!]
+Font size (default 10):
+10
+Box size (leave blank for font*2):
+
+Number of columns (default 4):
+4
+input characters below separated by commas or spaces
+°,±,≈,≠
+√,∞,∆,π
+∑
