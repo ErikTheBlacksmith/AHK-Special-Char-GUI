@@ -1,3 +1,4 @@
+# AHK Special Char GUI
 ![image of generated AHK GUI](https://i.imgur.com/YA485Tg.png)
 
 do not steal please i made this :)
