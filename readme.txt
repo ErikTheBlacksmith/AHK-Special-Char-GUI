@@ -4,6 +4,9 @@ How to use:
 Change what you want in settings.txt (a default is provided)
 run generate.exe
 run the generated AHK file
+select place for the character to be typed
+press the hotkey (default ctl+alt+])
+click desired character or nagivate using arrow keys + enter
 
 AHK required https://www.autohotkey.com/
 If you have python you can just run the .py file if it works and just delete the .exe
