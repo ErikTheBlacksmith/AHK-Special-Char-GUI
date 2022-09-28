@@ -8,7 +8,7 @@ def re_strip(string, char="\s"):
     result = re.sub(f"{char}+$", "", result)
     return result
 
-settings = open("Settings.txt", encoding="utf-8") 
+settings = open("Settings.txt", encoding="utf-8-sig") 
 # skip first two lines
 [settings.readline() for i in range(2)] 
 
@@ -17,7 +17,7 @@ regexParam = re.compile("[,\s]").pattern
 regexParam2 = re.compile("[,\s]")
 
 # open output file from line 3
-output = open(re_strip(settings.readline(), regexParam),"w", encoding="utf-8")
+output = open(re_strip(settings.readline(), regexParam),"w", encoding="utf-8-sig")
 
 # write ahk header
 output.write("""#NoEnv
